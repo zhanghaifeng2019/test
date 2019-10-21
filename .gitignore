@@ -1,0 +1,12 @@
+**/.DS_Store
+
+application/cache/*
+application/logs/*
+application/config/development/*
+application/tmp/*
+!application/tmp/.gitkeep
+!application/**/index.html
+!**/.htaccess
+composer.lock
+user_guide/*
+**/vendor/*
